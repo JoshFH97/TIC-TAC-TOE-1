@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+#castillo {
+    z-index: 1;
+    width: 100vw;
+    height: 150vh;
+}
+.avatars{
+    position: absolute;
+    top: 200px;
+}
+
+.bowser{
+    position: absolute;
+    top: 500px  ;
+}
